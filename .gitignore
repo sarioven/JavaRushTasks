@@ -1,10 +1,8 @@
 ﻿#############
 ## Idea
 #############
-target/
 .idea/
 .idea
-.repository/
 
 /out/
 /JavaRushPlugin.properties
